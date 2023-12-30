@@ -1,0 +1,33 @@
+body
+{
+	background-size: cover;
+	background-position: center;
+}
+ul
+{
+	font-size: 18px;
+	float: right;
+	color: sandybrown;
+}
+li
+{
+    display: inline-block;
+	color: sandybrown;
+	padding: 20px;
+}
+h2, h3
+{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 50px;
+}
+p
+{
+	text-align: center;
+}
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
